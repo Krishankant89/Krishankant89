@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning and building with modern web and cloud technologies
 - 💡 I enjoy creating useful projects and sharing what I learn
 - 🤝 I’m open to collaboration on impactful and open-source ideas
-- 📫 Reach me on GitHub: **[@Krishankant89](https://github.com/Krishankant89)**
 
 ---
 
