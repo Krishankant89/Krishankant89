@@ -14,11 +14,14 @@
 ---
 
 ### 🛠️ Tech Stack
+**Top programming languages:** Python, Bash
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -29,7 +32,7 @@
 ### 📊 GitHub Stats
 ![GitHub contribution statistics](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
-![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top programming languages (Python and Bash)](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Programming%20Languages%20(Python%20and%20Bash))
 
 ---
 
