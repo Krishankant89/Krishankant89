@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hello%20Fellow%20Developers!&fontSize=40&fontColor=ffffff" />
 </p>
@@ -114,4 +113,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
 </p>
-```
