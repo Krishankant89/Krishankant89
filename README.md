@@ -8,8 +8,8 @@
 ---
 
 ### 🌐 Connect With Me
-- LinkedIn Profile: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishankant89/)
-- X (Twitter) Profile: [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krishankant89)
+- LinkedIn Profile: [![LinkedIn profile badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishankant89/)
+- X (Twitter) Profile: [![X (Twitter) profile badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krishankant89)
 
 ---
 
@@ -27,9 +27,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub contribution statistics for Krishankant89](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub streak statistics showing consecutive contribution days](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
-![Top programming languages chart by repository usage](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub contribution statistics](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
+![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
