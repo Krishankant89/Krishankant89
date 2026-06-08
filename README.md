@@ -35,10 +35,5 @@
 
 ---
 
-### 🐍 Animated Contribution Graph
-![Snake animation](https://github.com/Krishankant89/Krishankant89/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📈 GitHub Activity Graph
+### 📈 Animated GitHub Activity Graph
 [![Krishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
