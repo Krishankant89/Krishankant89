@@ -27,11 +27,11 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### 📈 Animated GitHub Activity Graph
-[![Krishan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
+[![Krishan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
