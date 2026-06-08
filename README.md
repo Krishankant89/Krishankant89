@@ -1,40 +1,117 @@
-# Hi 👋, I'm Krishan Kant
+```md
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hello%20Fellow%20Developers!&fontSize=40&fontColor=ffffff" />
+</p>
 
-### 🚀 About Me
-- 🌱 I’m currently learning and building with modern web and cloud technologies
-- 💡 I enjoy creating useful projects and sharing what I learn
-- 🤝 I’m open to collaboration on impactful and open-source ideas
+<h1 align="center">Hi 👋, I'm Krishan Kant</h1>
 
----
+<h3 align="center">Computer Science Student | Cybersecurity Enthusiast | Open Source Learner</h3>
 
-### 🌐 Connect With Me
-- LinkedIn Profile: [![Visit my LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishankant89/)
-- X (Twitter) Profile: [![Follow me on X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krishankant89)
-
----
-
-### 🛠️ Tech Stack
-**Primary focus languages:** Python, Bash
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Krishankant89&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Krishankant89">
+    <img src="https://img.shields.io/github/followers/Krishankant89?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![GitHub statistics card displaying total commits, pull requests, issues, and contributions](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub streak statistics card showing current and longest contribution streaks](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
-![Bar chart showing top programming languages used on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Programming%20Languages)
+## 🚀 About Me
+
+- 🔭 Currently working on practical development projects
+- 🌱 Learning **Python, Java, Git, GitHub, SQL, and Cybersecurity**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, Java, SQL, C#, JavaScript**
+- 🎯 Goal: Become a skilled Software Engineer & Cybersecurity Professional
+- ⚡ Fun Fact: I like Sunflowers 🌻
 
 ---
 
-### 📈 Animated GitHub Activity Graph
-[![GitHub contribution activity graph showing commit history over time for Krishankant89](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishankant89">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  <a href="https://x.com/krishankant89">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+  </a>
+  <a href="https://github.com/Krishankant89">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Krishankant89&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishankant89&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python Development
+- Cybersecurity Fundamentals
+- Database Management Systems
+- Open Source Contribution
+- Cloud Computing Basics
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Strengthen DSA skills
+- ✅ Contribute to Open Source
+- ✅ Build Full Stack Projects
+- ✅ Learn Advanced Cybersecurity
+- ✅ Earn Industry Certifications
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
+</p>
+```
