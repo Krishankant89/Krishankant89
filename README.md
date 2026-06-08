@@ -1,40 +1,63 @@
-# Hi 👋, I'm Krishan Kant
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hello%20Fellow%20Developers!&fontSize=40&fontColor=ffffff" />
+</p>
 
-### 🚀 About Me
-- 🌱 I’m currently learning and building with modern web and cloud technologies
-- 💡 I enjoy creating useful projects and sharing what I learn
-- 🤝 I’m open to collaboration on impactful and open-source ideas
+<h1 align="center">Hi, I'm Krishan Kant</h1>
 
----
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Krishankant89.Krishankant89" alt="Visitor badge" />
+  <a href="https://github.com/Krishankant89"><img src="https://img.shields.io/github/followers/Krishankant89?label=Follow&style=social" alt="GitHub followers" /></a>
+</p>
 
-### 🌐 Connect With Me
-- LinkedIn Profile: [![Visit my LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishankant89/)
-- X (Twitter) Profile: [![Follow me on X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/krishankant89)
+<h2>About Me</h2>
+<ul>
+  <li>🔭 I’m currently working on learning-focused and practical projects</li>
+  <li>🌱 I’m currently learning Git, Java, and GitHub</li>
+  <li>👯 I’m looking to collaborate on open-source projects</li>
+  <li>💬 Ask me about SQL, Java, C#, and JavaScript</li>
+  <li>⚡ Fun fact: I like sunflowers 🌻</li>
+</ul>
 
----
+<h2>Skills</h2>
+<p>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" alt="python" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="javascript" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="react" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg" alt="csharp" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" alt="sqlite" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt="html" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="css" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg" alt="android" />
+</p>
 
-### 🛠️ Tech Stack
-**Primary focus languages:** Python, Bash
+<h2>Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/krishankant89/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="linkedin" /></a>
+  <a href="https://x.com/krishankant89"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="twitter" /></a>
+  <a href="https://github.com/Krishankant89"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="github" /></a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<h2>GitHub Activity Graph</h2>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&theme=tokyo-night" alt="GitHub activity graph" />
+</p>
 
----
+<h2>GitHub Stats</h2>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Krishankant89&show_icons=true&theme=tokyonight" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=tokyonight" alt="GitHub streak" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=tokyonight&layout=compact" alt="Top languages" /></td>
+    <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes card" /></td>
+  </tr>
+</table>
 
-### 📊 GitHub Stats
-![GitHub statistics card displaying total commits, pull requests, issues, and contributions](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub streak statistics card showing current and longest contribution streaks](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
-![Bar chart showing top programming languages used on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Programming%20Languages)
+<h2>GitHub Achievements</h2>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishankant89&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub achievements" />
+</p>
 
----
-
-### 📈 Animated GitHub Activity Graph
-[![GitHub contribution activity graph showing commit history over time for Krishankant89](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
+<hr />
+<p>Last Edited on: 08/06/2026</p>
