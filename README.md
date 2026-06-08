@@ -34,4 +34,4 @@
 ---
 
 ### 📈 Animated GitHub Activity Graph
-[![Krishan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
+[![Krishan's GitHub contribution activity graph showing commit patterns over time](https://github-readme-activity-graph.vercel.app/graph?username=Krishankant89&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true)](https://github.com/Krishankant89)
