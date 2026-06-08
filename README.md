@@ -30,9 +30,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub contribution statistics](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub streak statistics](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
-![Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Programming%20Languages)
+![GitHub statistics card displaying total commits, pull requests, issues, and contributions](https://github-readme-stats.vercel.app/api?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub streak statistics card showing current and longest contribution streaks](https://github-readme-streak-stats.herokuapp.com/?user=Krishankant89&theme=radical&hide_border=false)
+![Bar chart showing top programming languages used on GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishankant89&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Programming%20Languages)
 
 ---
 
